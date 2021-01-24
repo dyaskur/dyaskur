@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/-DYAS@YASKUR.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dyas@yaskur.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dyaskur/)
 [![yaskur.com](https://img.shields.io/badge/-YASKUR.COM-000000?style=for-the-badge&logo=overcast&logoColor=white)](https://yaskur.com/)
-[![StackOverflow](https://img.shields.io/badge/-STACKOVERFLOW-D14836?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/2671470/muhammad-dyas-yaskur)
-[![Instagram](https://img.shields.io/badge/-INSTAGRAM-D14836?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dyaskur)
+[![StackOverflow](https://img.shields.io/badge/-STACKOVERFLOW-EF2836?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/2671470/muhammad-dyas-yaskur)
+[![Instagram](https://img.shields.io/badge/-INSTAGRAM-8A3AB9?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dyaskur)
