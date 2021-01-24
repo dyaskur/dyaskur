@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 🖇 Feel free to reach out if you need a peer programmer to learn algorithms or to collaborate on interesting projects
 - ❤️ Love any types of animal (wild or pet)
 - 💻 For more of my techie stuff, check out my [resume](https://docs.google.com/document/d/1-E5MgzVOUcX-WtAOcPflXY-1AbuS56Aft9OYDU4XK4M/edit) or check it out my [website](https://yaskur.com/) and let me know what you think ♥️
+- Feel free to contact me if needed
 
 ## GitHub Ramblings
 <p align="center">
@@ -34,5 +35,6 @@ Here are some ideas to get you started:
 ## Links
 [![Gmail](https://img.shields.io/badge/-DYAS@YASKUR.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dyas@yaskur.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dyaskur/)
-[![yaskur.com](https://img.shields.io/badge/-YASKUR.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://yaskur.com/)
+[![yaskur.com](https://img.shields.io/badge/-YASKUR.COM-000000?style=for-the-badge&logo=overcast&logoColor=white)](https://yaskur.com/)
 [![StackOverflow](https://img.shields.io/badge/-STACKOVERFLOW-D14836?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/2671470/muhammad-dyas-yaskur)
+[![Instagram](https://img.shields.io/badge/-INSTAGRAM-D14836?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dyaskur
