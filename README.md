@@ -14,13 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <a href="https://stackoverflow.com/users/2671470/muhammad-dyas-yaskur">
+  <img height="100em" alt"stackoverflow" src="https://stackexchange.com/users/flair/3160102.png"/>
+</a>
+</p>
 
-## Links
-[![yaskur.com](https://img.shields.io/badge/-YASKUR.COM-000000?style=for-the-badge&logo=overcast&logoColor=white)](https://yaskur.com/)
-[![StackOverflow](https://img.shields.io/badge/-STACKOVERFLOW-EF2836?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/2671470/muhammad-dyas-yaskur)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dyaskur/)
-[![Gmail](https://img.shields.io/badge/-DYAS@YASKUR.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dyas@yaskur.com)
-[![Instagram](https://img.shields.io/badge/-INSTAGRAM-8A3AB9?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dyaskur)
 
 
 ## About Me
@@ -35,13 +34,17 @@ Here are some ideas to get you started:
 
 ## GitHub Ramblings
 <p align="center">
-  <a href="https://stackoverflow.com/users/2671470/muhammad-dyas-yaskur">
-  <img height="180em" src="https://stackexchange.com/users/flair/3160102.png"/>
-</a>
-  
+
 <a href="https://github.com/dyaskur">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dyaskur&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </a>
 </p>
+
+## Links
+[![yaskur.com](https://img.shields.io/badge/-YASKUR.COM-000000?style=for-the-badge&logo=overcast&logoColor=white)](https://yaskur.com/)
+[![StackOverflow](https://img.shields.io/badge/-STACKOVERFLOW-EF2836?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/2671470/muhammad-dyas-yaskur)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dyaskur/)
+[![Gmail](https://img.shields.io/badge/-DYAS@YASKUR.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dyas@yaskur.com)
+[![Instagram](https://img.shields.io/badge/-INSTAGRAM-8A3AB9?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dyaskur)
 
 
